@@ -1,0 +1,50 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+
+.font-1 {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 400;
+}
+
+.font-2 {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 500;
+}
+
+.font-3 {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 600;
+}
+
+.font-3-1 {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 700;
+}
+
+.font-4 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.font-5 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+.font-6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.mult-color {
+    background: #F54C1E;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
