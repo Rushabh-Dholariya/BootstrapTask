@@ -48,3 +48,18 @@
     -webkit-text-fill-color: transparent;
 }
 
+/* third page */
+.card_1{
+    background: linear-gradient(1deg, #FD5C30 0%, rgba(0, 0, 0, 0.00) 100%);
+}
+.third_page_img1
+{
+    width: 30rem
+}
+@media screen and (max-width:400px) {
+    .third_page_img1
+    {
+        width: inherit;
+    } 
+}
+
